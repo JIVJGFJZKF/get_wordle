@@ -1,2 +1,2 @@
-# Locate Ship
+# Get Wordle
 Strategies for solving Wordle.
